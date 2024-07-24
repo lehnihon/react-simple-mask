@@ -6,6 +6,10 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lehnihon/react-simple-mask.git"
+  },
   "types": "dist/index.d.ts",
   "scripts": {
     "rollup": "rollup -c --bundleConfigAsCjs"
